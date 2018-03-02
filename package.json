@@ -1,0 +1,11 @@
+{
+  "name": "next-assets-import",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "sayuti-daniel/next-assets-import",
+  "dependencies": {
+    "file-loader": "^1.1.11",
+    "url-loader": "^0.6.2"
+  }
+}
