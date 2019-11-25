@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": "sayuti-daniel/next-assets-import",
   "dependencies": {
-    "file-loader": "^1.1.11",
+    "file-loader": "^5.0.2",
     "url-loader": "^0.6.2"
   }
 }
